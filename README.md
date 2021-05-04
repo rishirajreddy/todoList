@@ -13,6 +13,7 @@ A Simple ToDo List App using Flutter State Management Provider package
   <img src="https://user-images.githubusercontent.com/64702890/117021511-0b463100-ad15-11eb-9cd6-2d0d8346c364.png" height=600 width=350>
   <img src="https://user-images.githubusercontent.com/64702890/117021514-0c775e00-ad15-11eb-9019-b5281efee0b4.png" height=600 width=350>
   </div>
+  
 ## In Action
 
 <div align=center>
